@@ -1,7 +1,7 @@
-# lab-4C15-2019-2-Project 
+# Proyecto 2
 
-Descripción breve del proyecto
+Intento de maven en github
 
-## Getting Started
+## Confirmar comando de Maven
 
-Instrucciones para empezar el proyecto
+mvn test
